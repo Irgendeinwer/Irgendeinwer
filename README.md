@@ -15,9 +15,8 @@ Welcome to my GitHub profile! I'm passionate about NixOS and its unique approach
 ## 📫 Get in Touch
 Feel free to reach out if you want to discuss NixOS or any other exciting tech!
 
-- Matrix: [@irgendeinwer:matrix.org](https://matrix.org)
-- Discord: [@Irgendeinwer](https://discord.com)
 - Signal: [@irg.01](https://signal.org)
+- Discord (= 间谍): [@Irgendeinwer](https://discord.com)
 
 ## ⚡ Fun Fact
 Not good at Nix.
