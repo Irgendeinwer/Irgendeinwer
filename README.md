@@ -22,6 +22,3 @@ Feel free to reach out if you want to discuss NixOS or any other exciting tech!
 
 - Signal: [@irg.01](https://signal.org)
 - Discord (= 间谍): [@Irgendeinwer](https://discord.com)
-
-## ⚡ Fun Fact
-Not good at Nix.
