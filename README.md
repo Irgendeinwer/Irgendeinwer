@@ -1,5 +1,7 @@
 # Hi, I'm Irgendeinwer 👋
 
+**I'm primarily on [Codeberg](https://codeberg.org/Irgendeinwer) btw**
+
 Welcome to my GitHub profile! I'm passionate about NixOS and its unique approach to package management and system configuration. I love exploring the power of declarative systems and building scalable, reproducible environments.
 
 ## 🚀 Projects
