@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about NixOS and its unique approach
 
 ## 🚀 Projects
 
-### Own Projects
+### Own Projects [Currently private]
 - [NixtFig](https://github.com/Irgendeinwer/NixtFig): My new and improved NixOS configuration, focused on modularity and ease of use.
 - [NixOS-Dotfiles](https://github.com/Irgendeinwer/NixOS-Dotfiles): Legacy NixOS configuration files, showcasing my first exploration of the system.
 
@@ -23,4 +23,4 @@ Welcome to my GitHub profile! I'm passionate about NixOS and its unique approach
 Feel free to reach out if you want to discuss NixOS or any other exciting tech!
 
 - Signal: [@irg.01](https://signal.org)
-- Discord (= 间谍): [@Irgendeinwer](https://discord.com)
+- Discord (I prefer Signal): [@Irgendeinwer](https://discord.com)
