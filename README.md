@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I'm passionate about NixOS and its unique approach
 
 ## 🚀 Projects
 
-### Own Projects [Currently private]
-- [NixtFig](https://github.com/Irgendeinwer/NixtFig): My new and improved NixOS configuration, focused on modularity and ease of use.
-- [NixOS-Dotfiles](https://github.com/Irgendeinwer/NixOS-Dotfiles): Legacy NixOS configuration files, showcasing my first exploration of the system.
+### Own Projects
+- [NixOS-Dotfiles](https://github.com/Irgendeinwer/NixOS-Dotfiles): NixOS configuration files
 
 ### Others' Projects
 - [Rush](https://github.com/shub39/Rush): Android app to search, save, and share lyrics like Spotify.
