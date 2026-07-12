@@ -1,6 +1,6 @@
 # Hi, I'm Irgendeinwer 👋
 
-**I'm primarily on [Codeberg](https://codeberg.org/Irgendeinwer) btw**
+**I'm slowly transitioning to [Codeberg](https://codeberg.org/Irgendeinwer), btw (soon)!**
 
 Welcome to my GitHub profile! I'm passionate about NixOS and its unique approach to package management and system configuration. I love exploring the power of declarative systems and building scalable, reproducible environments.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about NixOS and its unique approach
 - [NixOS-Dotfiles](https://github.com/Irgendeinwer/NixOS-Dotfiles): NixOS configuration files
 
 ### Others' Projects
-- [Rush](https://github.com/shub39/Rush): Android app to search, save, and share lyrics like Spotify.
+- [Rush](https://github.com/shub39/Rush): App to search, save, and share lyrics like Spotify.
 
 ## 🛠️ Technologies & Tools
 - **NixOS**: My preferred operating system for declarative configurations and reproducible environments.
@@ -21,5 +21,5 @@ Welcome to my GitHub profile! I'm passionate about NixOS and its unique approach
 ## 📫 Get in Touch
 Feel free to reach out if you want to discuss NixOS or any other exciting tech!
 
-- Signal: [@irg.01](https://signal.org)
-- Discord (I prefer Signal): [@Irgendeinwer](https://discord.com)
+- **Signal:** [@irg.01](https://signal.org)
+- *Discord (< Signal):* [@Irgendeinwer](https://discord.com)
