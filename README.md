@@ -1,10 +1,10 @@
 <div align="center">
 
-# `Irgendeinwer`
+# Irgendeinwer
 
 **Declarative Systems • NixOS • Linux Workflow Orchestration**
 
-[![Website](https://img.shields.io/badge/hub-irgendeinwer.github.io-b8bb26?style=flat-square&logo=githubpages&logoColor=ebdbb2&labelColor=282828)](https://irgendeinwer.github.io/)
+[![Hub](https://img.shields.io/badge/hub-irgendeinwer.github.io-b8bb26?style=flat-square&logo=githubpages&logoColor=ebdbb2&labelColor=282828)](https://irgendeinwer.github.io/)
 [![NixOS](https://img.shields.io/badge/system-NixOS-8ec07c?style=flat-square&logo=nixos&logoColor=ebdbb2&labelColor=282828)](https://github.com/Irgendeinwer/NixOS-Dotfiles)
 [![Hyprland](https://img.shields.io/badge/wm-Hyprland-fe8019?style=flat-square&logo=wayland&logoColor=ebdbb2&labelColor=282828)](https://github.com/Irgendeinwer/NixOS-Dotfiles)
 [![Theme](https://img.shields.io/badge/palette-Gruvbox_Dark-fabd2f?style=flat-square&labelColor=282828)](https://irgendeinwer.github.io/)
@@ -44,34 +44,24 @@
 
 | Repository | Focus | Highlights |
 | :--- | :--- | :--- |
-| **[`NixOS-Dotfiles`](https://github.com/Irgendeinwer/NixOS-Dotfiles)** | `System Configuration` | Flake-driven multi-host setup, custom modules, Nixvim, and reproducible desktop environment. |
-| **[`irgendeinwer.github.io`](https://irgendeinwer.github.io)** | `Landing & Telemetry` | Gruvbox-styled hub featuring live Fastfetch host specs and interactive namespace builder. |
+| **[`NixOS-Dotfiles`](https://github.com/Irgendeinwer/NixOS-Dotfiles)** | System Config | Flake-driven multi-host setup, custom modules, and reproducible desktop environment. |
+| **[`irgendeinwer.github.io`](https://irgendeinwer.github.io)** | Web Hub | Gruvbox-styled hub featuring live Fastfetch host specs and interactive namespace builder. |
 
 ---
 
-### Curated Software Spotlight
+### Curated Spotlight
 
-> ✦ **[`Rush`](https://github.com/shub39/rush)** — *A companion application for real-time lyrics discovery and synchronization. Highly recommended :)*
+> ✦ **[`shub39/Rush`](https://github.com/shub39/Rush)** — *An exceptionally clean companion app to search, save, and sync real-time Spotify lyrics.*
 
 ---
 
-### Communication & Channels
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td><strong>Discord</strong></td>
-    <td><code>@irgendeinwer</code> <sub>(ID: <code>775352250209796106</code>)</sub></td>
-  </tr>
-  <tr>
-    <td><strong>Signal</strong></td>
-    <td><code>@irg.01</code></td>
-  </tr>
-  <tr>
-    <td><strong>Proton</strong></td>
-    <td><code>irgendeinwer@proton.me</code></td>
-  </tr>
-  <tr>
-    <td><strong>Web Hub</strong></td>
-    <td><a href="https://irgendeinwer.github.io">https://irgendeinwer.github.io</a></td>
-  </tr>
-</table>
+### Connect
+
+[![Discord](https://img.shields.io/badge/Discord-@irgendeinwer-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=282828)](https://discord.com/users/775352250209796106)
+[![Signal](https://img.shields.io/badge/Signal-@irg.01-3A76F0?style=flat-square&logo=signal&logoColor=white&labelColor=282828)](https://signal.me/#p/@irg.01)
+[![Proton](https://img.shields.io/badge/Proton-irgendeinwer@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white&labelColor=282828)](mailto:irgendeinwer@proton.me)
+[![Web Hub](https://img.shields.io/badge/Web_Hub-irgendeinwer.github.io-b8bb26?style=flat-square&logo=firefox&logoColor=white&labelColor=282828)](https://irgendeinwer.github.io)
+
+</div>
