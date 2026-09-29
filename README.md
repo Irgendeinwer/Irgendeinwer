@@ -13,33 +13,6 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>λ Deployed Fleet</h4>
-      <ul>
-        <li><strong><code>junixos</code></strong> — Workstation
-          <br><sub>Intel Core i5-13600KF • AMD Radeon RX 9070 • Hyprland</sub>
-        </li>
-        <br>
-        <li><strong><code>junixbook</code></strong> — Portable
-          <br><sub>10th Gen Intel Core i5 • Wayland Mobile Baseline</sub>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>λ System Architecture</h4>
-      <ul>
-        <li><strong>Scoped Namespaces:</strong> Strict <code>custom.&lt;domain&gt;.&lt;feature&gt;</code> toggles.</li>
-        <li><strong>Dynamic Auto-Import:</strong> Recursive discovery for zero-boilerplate module addition.</li>
-        <li><strong>Shared Baseline:</strong> Centralized base configs across all machines.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ### Featured Repositories
 
 | Repository | Focus | Highlights |
