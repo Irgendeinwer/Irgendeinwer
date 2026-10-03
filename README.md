@@ -2,8 +2,6 @@
 
 # Irgendeinwer
 
-**Declarative Systems • NixOS • Linux Workflow Orchestration**
-
 [![Hub](https://img.shields.io/badge/hub-irgendeinwer.github.io-b8bb26?style=flat-square&logo=githubpages&logoColor=ebdbb2&labelColor=282828)](https://irgendeinwer.github.io/)
 [![NixOS](https://img.shields.io/badge/system-NixOS-8ec07c?style=flat-square&logo=nixos&logoColor=ebdbb2&labelColor=282828)](https://github.com/Irgendeinwer/NixOS-Dotfiles)
 [![Hyprland](https://img.shields.io/badge/wm-Hyprland-fe8019?style=flat-square&logo=wayland&logoColor=ebdbb2&labelColor=282828)](https://github.com/Irgendeinwer/NixOS-Dotfiles)
